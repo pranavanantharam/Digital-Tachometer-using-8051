@@ -1,6 +1,6 @@
 # Digital Tachometer using-8051 Microcontroller
 
-Script to run a digital tachometer using 8051 Microcontroller
+Script to run a digital tachometer using 8051 Microcontroller.
 
 ## Requirements
 - 8051 Microcontroller
